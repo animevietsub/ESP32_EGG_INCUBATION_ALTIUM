@@ -1,0 +1,56 @@
+Added Component: Designator=J8(MY_PAD_3MM)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J9(MY_PAD_3MM)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J10(MY_PAD_3MM)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J11(MY_PAD_3MM)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=J8-0
+Added Pin To Net: NetName=GND Pin=J8-0
+Added Pin To Net: NetName=GND Pin=J8-0
+Added Pin To Net: NetName=GND Pin=J8-0
+Added Pin To Net: NetName=GND Pin=J8-0
+Added Pin To Net: NetName=GND Pin=J8-0
+Added Pin To Net: NetName=GND Pin=J8-0
+Added Pin To Net: NetName=GND Pin=J8-0
+Added Pin To Net: NetName=GND Pin=J8-0
+Added Pin To Net: NetName=GND Pin=J9-0
+Added Pin To Net: NetName=GND Pin=J9-0
+Added Pin To Net: NetName=GND Pin=J9-0
+Added Pin To Net: NetName=GND Pin=J9-0
+Added Pin To Net: NetName=GND Pin=J9-0
+Added Pin To Net: NetName=GND Pin=J9-0
+Added Pin To Net: NetName=GND Pin=J9-0
+Added Pin To Net: NetName=GND Pin=J9-0
+Added Pin To Net: NetName=GND Pin=J9-0
+Added Pin To Net: NetName=GND Pin=J10-0
+Added Pin To Net: NetName=GND Pin=J10-0
+Added Pin To Net: NetName=GND Pin=J10-0
+Added Pin To Net: NetName=GND Pin=J10-0
+Added Pin To Net: NetName=GND Pin=J10-0
+Added Pin To Net: NetName=GND Pin=J10-0
+Added Pin To Net: NetName=GND Pin=J10-0
+Added Pin To Net: NetName=GND Pin=J10-0
+Added Pin To Net: NetName=GND Pin=J10-0
+Added Pin To Net: NetName=GND Pin=J11-0
+Added Pin To Net: NetName=GND Pin=J11-0
+Added Pin To Net: NetName=GND Pin=J11-0
+Added Pin To Net: NetName=GND Pin=J11-0
+Added Pin To Net: NetName=GND Pin=J11-0
+Added Pin To Net: NetName=GND Pin=J11-0
+Added Pin To Net: NetName=GND Pin=J11-0
+Added Pin To Net: NetName=GND Pin=J11-0
+Added Pin To Net: NetName=GND Pin=J11-0
+Added Pin To Net: NetName=GND Pin=S1-1
+Added Pin To Net: NetName=GND Pin=S2-1
+Added Pin To Net: NetName=KEY_SEN_0 Pin=S3-1
+Added Pin To Net: NetName=KEY_SEN_1 Pin=S4-1
+Added Pin To Net: NetName=KEY_SEN_2 Pin=S5-1
+Added Pin To Net: NetName=KEY_SEN_0 Pin=S6-1
+Added Pin To Net: NetName=KEY_SEN_1 Pin=S7-1
+Added Pin To Net: NetName=KEY_SEN_2 Pin=S8-1
+Added Member To Class: ClassName=[SCH]_Power Member=Component J8 MASS 3MM
+Added Member To Class: ClassName=[SCH]_Power Member=Component J9 MASS 3MM
+Added Member To Class: ClassName=[SCH]_Power Member=Component J10 MASS 3MM
+Added Member To Class: ClassName=[SCH]_Power Member=Component J11 MASS 3MM

@@ -1,0 +1,18 @@
+Change Component Footprint: Designator=C2 Old Footprint=CAP-SMD-0805 New Footprint=Cap-Mica-22.5-11x26x20
+Change Component Footprint: Designator=C3 Old Footprint=CAP-SMD-0805 New Footprint=Cap-Mica-22.5-11x26x20
+Change Component Comment : Designator=C2 Old Comment=103 New Comment=104
+Change Component Comment : Designator=C3 Old Comment=103 New Comment=104
+Change component parameters: Designator = "C2"; Footprint = "Cap-Mica-22.5-11x26x20"; UniqueID = "\EBDCMQXL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Price"; Value = "0.005"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3"; Footprint = "Cap-Mica-22.5-11x26x20"; UniqueID = "\LRWJHVCO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Price"; Value = "0.005"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=S1-1
+Added Pin To Net: NetName=GND Pin=S2-1
+Added Pin To Net: NetName=KEY_SEN_0 Pin=S3-1
+Added Pin To Net: NetName=KEY_SEN_1 Pin=S4-1
+Added Pin To Net: NetName=KEY_SEN_2 Pin=S5-1
+Added Pin To Net: NetName=KEY_SEN_0 Pin=S6-1
+Added Pin To Net: NetName=KEY_SEN_1 Pin=S7-1
+Added Pin To Net: NetName=KEY_SEN_2 Pin=S8-1

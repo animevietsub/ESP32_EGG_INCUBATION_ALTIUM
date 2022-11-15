@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=R14 Old Footprint=RES-SMD-0805 New Footprint=RES-SMD-2512
+Change Component Footprint: Designator=R19 Old Footprint=RES-SMD-0805 New Footprint=RES-SMD-2512
+Added Pin To Net: NetName=ESP32_EN Pin=S1-1
+Added Pin To Net: NetName=ESP32_IO0 Pin=S2-1
+Added Pin To Net: NetName=KEY_DRV_0 Pin=S3-1
+Added Pin To Net: NetName=KEY_DRV_0 Pin=S4-1
+Added Pin To Net: NetName=KEY_DRV_0 Pin=S5-1
+Added Pin To Net: NetName=KEY_DRV_1 Pin=S6-1
+Added Pin To Net: NetName=KEY_DRV_1 Pin=S7-1
+Added Pin To Net: NetName=KEY_DRV_1 Pin=S8-1

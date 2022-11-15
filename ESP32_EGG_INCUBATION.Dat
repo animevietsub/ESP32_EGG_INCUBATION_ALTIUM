@@ -1,0 +1,44 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|Field=Price~String~Price~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~ESP32_EGG_INCUBATION.PrjPcb|ReportField=ProjectFullPath~E:\NEW_DATA\Project\ESP32_EGG_INCUBATION\ESP32_EGG_INCUBATION.PrjPcb|ReportField=Title~Bill of Materials For Project [ESP32_EGG_INCUBATION.PrjPcb] (No PCB Document Selected)|ReportField=ReportTime~8:57:48 AM|ReportField=ReportDate~11/8/2022|ReportField=ReportDateTime~11/8/2022 8:57:48 AM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=TotalQuantity~128|ReportField=TotalActualPrice~0|ReportField=TotalTargetPrice~0|ReportField=VersionControl_RevNumber~|ReportField=VersionControl_ProjFolderRevNumber~|ReportField=Address1~TEAM GA MO Limited|ReportField=Address2~30, Nhat Hamet, Thanh Hoa, Phung Hiep, HG|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CheckedDate~-|ReportField=CompanyName~TEAM GA MO|ReportField=CreateDate~XX/XX/XXXX|ReportField=CurrentDate~11/8/2022|ReportField=CurrentTime~8:19:34 AM|ReportField=Date~|ReportField=Designer~Vo Hao Hao|ReportField=DivGrp~TGM|ReportField=DocumentFullPathAndName~E:\NEW_DATA\Project\ESP32_EGG_INCUBATION\[SCH]_HMI.SchDoc|ReportField=DocumentName~[SCH]_HMI.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~Vo Hao Hao|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedBy~-|ReportField=ModifiedDate~11/8/2022|ReportField=Organization~TEAM GA MO|ReportField=ProjectName~ESP32_EGG_INCUBATION.PrjPcb|ReportField=Projet~EGG INCUBATION (PC-BASED MEASUREMENT AND CONTROL SYSTEMS)|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=TGM_Number~TGA-00005-04-1|ReportField=Time~|ReportField=Title~MOTHERBOARD|ReportField=Title2~INPUT/OUTPUT|ReportField=DataSourceFileName~ESP32_EGG_INCUBATION.PrjPcb|ReportField=DataSourceFullPath~E:\NEW_DATA\Project\ESP32_EGG_INCUBATION\ESP32_EGG_INCUBATION.PrjPcb|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|104|Non-polar capacitor|C1, C7, C8, C15, C16, C17, C18, C19, C20, C21, C22, C24, C25, C26, C28, C29, C30|CAP-SMD-0805|Cap-Non-SMD|17|
+2|103|Non-polar capacitor|C2, C3, C4, C5, C14|CAP-SMD-0805|Cap-Non-SMD|5|
+3|102|Non-polar capacitor|C6|CAP-SMD-0805|Cap-Non-SMD|1|
+4|226|Non-polar capacitor|C9, C10, C11, C12|CAP-SMD-2512|Cap-Pol-SMD|4|
+5|105|Non-polar capacitor|C13|CAP-SMD-0805|Cap-Non-SMD|1|
+6|106|Non-polar capacitor|C23, C27, C31|CAP-SMD-0805|Cap-Non-SMD|3|
+7|1N4001|1.0A RECTIFIER|D1, D2, D3, D7, D8|DIO-SMD-106|1N4001|5|
+8|BAT60|DIODE SCHOTTKY 10V 3A SOD323-2|D4|SOD-323|BAT60|1|
+9|6V|DIODE-ZNR 5.1V 5% PD=1W IR=10uA|D5|DIO-SMD-106|ZENER|1|
+10|9V|DIODE-ZNR 5.1V 5% PD=1W IR=10uA|D6|DIO-SMD-106|ZENER|1|
+11|12V|LED RED CLEAR 0603 SMD|D9|LED0603-IPC|LED 0603 Red|1|
+12|5V|LED YELLOW CLEAR 0603 SMD|D10|LED0603-IPC|LED 0603 Yellow|1|
+13|3.3V|LED GREEN CLEAR 0603 SMD|D11|LED0603-IPC|LED 0603 Green|1|
+14|PKM5|ALARM-AUDIBLE PIEZO ALARM PIN TYPE; 5V|E1|BUZZER|BUZZER|1|
+15|2A||F1|Fuse-SMD 2920|Fuse SMD|1|
+16|LM2596|Power IC|IC1|TO263|LM2596|1|
+17|FAN-VENT||J1, J2, J3, J4|KF2/5.08|JP2|4|
+18|PROGRAM|Male Box Header WR-BHD, THT, Vertical, pitch 2.54 mm, 10 pins|J5|IDC10|IDE_5X2|1|
+19|DHT22||J6|KF3/5.08T|JP3|1|
+20|JUMPER||J7|KF2/5.08|JP2|1|
+21|482R2SC|2.2µH Shielded Wirewound Inductor 8.2A 10mOhm Max Nonstandard, 4 Lead|L1, L2|5026_INDUCTOR|INDUCTOR_FE|2|
+22|ESP32-S|Tensilica Xtensa LX6 microprocessor @ 160 or 240 MHz · 320 KiB SRAM|M1|ESP32-S-Footprint|ESP32-S|1|
+23|ST7775R||M2|LCD_176X220_MODULE|LCD_176x220|1|
+24|IRFR3910|N-Channel 16A (Tc) 79W (Tc) Surface Mount D-Pak|Q1|TO228P970X238-3N|IRFR3910TRLPBF|1|
+25|NPN|Transistor, NPN, RF, 50mA, 12V|Q2|SOT23(123)|NPN|1|
+26|BT137|THYRISTOR-TRIAC TO-220AB VRRM=600|Q3, Q5|TO252AA|SCR|2|
+27|C1815|Transistor, NPN, RF, 50mA, 12V|Q4, Q6, Q7, Q9|SOT23(123)|NPN|4|
+28|BT136|THYRISTOR-TRIAC TO-220AB VRRM=600|Q8|TO252AA|SCR|1|
+29|RES-2512-4.7R|Chip Resistor, 0805, 1%, 1/8 W|R1, R2, R3, R4, R5, R6, R7, R8, R9, R10, R11, R12, R13, R15, R16, R17, R18, R20, R21, R44, R45, R46, R47, R48|RES-SMD-0805|RES|24|0.005
+30|RES|Chip Resistor, 0805, 1%, 1/8 W|R14, R19|RES-SMD-0805|RES|2|0.005
+31|R0805|Chip Resistor, 0805, 1%, 1/8 W|R22, R23, R24, R25, R26, R27, R28, R29, R30, R31, R32, R33, R34, R35, R36, R37, R38, R39, R40, R41, R42, R43|RES-SMD-0805|RES|22|0.005
+32|RESET|SWITCH TACTILE SPST-NO 0.05A 12V|S1|TL3342F260QG|SWITCH TACTILE SPST|1|
+33|BOOT|SWITCH TACTILE SPST-NO 0.05A 12V|S2|TL3342F260QG|SWITCH TACTILE SPST|1|
+34|TEMP+|SWITCH TACTILE SPST-NO 0.05A 12V|S3|TL3342F260QG|SWITCH TACTILE SPST|1|
+35|RH+|SWITCH TACTILE SPST-NO 0.05A 12V|S4|TL3342F260QG|SWITCH TACTILE SPST|1|
+36|TURN+|SWITCH TACTILE SPST-NO 0.05A 12V|S5|TL3342F260QG|SWITCH TACTILE SPST|1|
+37|TEMP-|SWITCH TACTILE SPST-NO 0.05A 12V|S6|TL3342F260QG|SWITCH TACTILE SPST|1|
+38|RH-|SWITCH TACTILE SPST-NO 0.05A 12V|S7|TL3342F260QG|SWITCH TACTILE SPST|1|
+39|TURN-|SWITCH TACTILE SPST-NO 0.05A 12V|S8|TL3342F260QG|SWITCH TACTILE SPST|1|
+40|LM358|7mV 250nA 7uV/C 1MHz 0.6V/uS 0.8mA 3-32V|U1, U5|SOIC-8S|LM358|2|0.24
+41|MOC3020Z|OPTO-ISOLATOR LED-PTRIAC IF=50mA-max|U2, U3|DIP6|MOC3020Z|2|
+42|AMS1117|1A Bipolar Linear Regulator|U4|SOT223(1234)|AMS1117|1|
+43|74595|CD74HC595 8-Bit Shift Registers With 3-State Output Registers|U6, U7|SOIC-16S|74595|2|

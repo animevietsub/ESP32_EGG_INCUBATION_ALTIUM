@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=C2 Old Footprint=Cap-Mica-22.5-11x26x20 New Footprint=Cap-Mica-15.5-8.5x18.5x14.3
+Change Component Footprint: Designator=C3 Old Footprint=Cap-Mica-22.5-11x26x20 New Footprint=Cap-Mica-15.5-8.5x18.5x14.3
+Added Pin To Net: NetName=ESP32_EN Pin=S1-1
+Added Pin To Net: NetName=ESP32_IO0 Pin=S2-1
+Added Pin To Net: NetName=KEY_DRV_0 Pin=S3-1
+Added Pin To Net: NetName=KEY_DRV_0 Pin=S4-1
+Added Pin To Net: NetName=KEY_DRV_0 Pin=S5-1
+Added Pin To Net: NetName=KEY_DRV_1 Pin=S6-1
+Added Pin To Net: NetName=KEY_DRV_1 Pin=S7-1
+Added Pin To Net: NetName=KEY_DRV_1 Pin=S8-1

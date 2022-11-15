@@ -1,0 +1,22 @@
+Change Component Comment : Designator=L1 Old Comment=33uH New Comment=482R2SC
+Change Component Comment : Designator=J1 Old Comment=FAN-VENT New Comment=FAN-HUMI
+Change Component Comment : Designator=J3 Old Comment=FAN-VENT New Comment=HEATER
+Change Component Comment : Designator=J4 Old Comment=FAN-VENT New Comment=TURN
+Added Pin To Net: NetName=GND Pin=J8-0
+Added Pin To Net: NetName=GND Pin=J8-0
+Added Pin To Net: NetName=GND Pin=J8-0
+Added Pin To Net: NetName=GND Pin=J8-0
+Added Pin To Net: NetName=GND Pin=J8-0
+Added Pin To Net: NetName=GND Pin=J8-0
+Added Pin To Net: NetName=GND Pin=J8-0
+Added Pin To Net: NetName=GND Pin=J8-0
+Added Pin To Net: NetName=GND Pin=J8-0
+Added Pin To Net: NetName=ESP32_EN Pin=S1-1
+Added Pin To Net: NetName=ESP32_IO0 Pin=S2-1
+Added Pin To Net: NetName=KEY_DRV_0 Pin=S3-1
+Added Pin To Net: NetName=KEY_DRV_0 Pin=S4-1
+Added Pin To Net: NetName=KEY_DRV_0 Pin=S5-1
+Added Pin To Net: NetName=KEY_DRV_1 Pin=S6-1
+Added Pin To Net: NetName=KEY_DRV_1 Pin=S7-1
+Added Pin To Net: NetName=KEY_DRV_1 Pin=S8-1
+Added Member To Class: ClassName=[SCH]_Power Member=Component J8 MASS 3MM
