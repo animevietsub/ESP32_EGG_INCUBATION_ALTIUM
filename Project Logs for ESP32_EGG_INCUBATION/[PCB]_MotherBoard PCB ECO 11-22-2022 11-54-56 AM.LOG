@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=KEY_DRV_0 Pin=S3-1
+Added Pin To Net: NetName=KEY_DRV_0 Pin=S4-1
+Added Pin To Net: NetName=KEY_DRV_0 Pin=S5-1
+Added Pin To Net: NetName=KEY_DRV_1 Pin=S6-1
+Added Pin To Net: NetName=KEY_DRV_1 Pin=S7-1
+Added Pin To Net: NetName=KEY_DRV_1 Pin=S8-1
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=+6V Pin=U1-8
+Added Pin To Net: NetName=GND Pin=U5-4
+Added Pin To Net: NetName=+6V Pin=U5-8

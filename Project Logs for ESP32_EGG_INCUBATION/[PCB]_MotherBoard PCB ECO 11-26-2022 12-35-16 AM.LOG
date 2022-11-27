@@ -1,0 +1,13 @@
+Change Component Kind : Designator=S8 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=S7 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=S6 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=S5 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=S4 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=S3 Old Kind=Standard New Kind=Standard (No BOM)
+Added Pin To Net: NetName=KEY_SEN_0 Pin=S3-1
+Added Pin To Net: NetName=KEY_SEN_1 Pin=S4-1
+Added Pin To Net: NetName=KEY_SEN_2 Pin=S5-1
+Added Pin To Net: NetName=KEY_SEN_0 Pin=S6-1
+Added Pin To Net: NetName=KEY_SEN_1 Pin=S7-1
+Added Pin To Net: NetName=KEY_SEN_2 Pin=S8-1
+Added Pin To Net: NetName=V2+ Pin=U1-8

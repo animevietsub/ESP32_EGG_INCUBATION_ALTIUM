@@ -1,0 +1,19 @@
+Added Pin To Net: NetName=NetQ1_3 Pin=R6-1
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=FANH_FAIL Pin=R8-2
+Added Pin To Net: NetName=FANV- Pin=R10-1
+Added Pin To Net: NetName=NetR10_2 Pin=R10-2
+Added Pin To Net: NetName=NetR11_1 Pin=R11-1
+Added Pin To Net: NetName=FANV_FAIL Pin=R11-2
+Added Pin To Net: NetName=KEY_DRV_0 Pin=S3-1
+Added Pin To Net: NetName=KEY_DRV_0 Pin=S4-1
+Added Pin To Net: NetName=KEY_DRV_0 Pin=S5-1
+Added Pin To Net: NetName=KEY_DRV_1 Pin=S6-1
+Added Pin To Net: NetName=KEY_DRV_1 Pin=S7-1
+Added Pin To Net: NetName=KEY_DRV_1 Pin=S8-1
+Added Pin To Net: NetName=+6V Pin=U1-8
+Added Member To Class: ClassName=[SCH]_IO Member=Component R6 RES-2512-4.7R
+Added Member To Class: ClassName=[SCH]_IO Member=Component R8 RES-2512-4.7R
+Added Member To Class: ClassName=[SCH]_IO Member=Component R10 RES-2512-4.7R
+Added Member To Class: ClassName=[SCH]_IO Member=Component R11 RES-2512-4.7R

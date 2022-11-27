@@ -1,0 +1,18 @@
+Change Component Footprint: Designator=D1 Old Footprint=DIO-SMD-106 New Footprint=DIO-SMD-123
+Change Component Footprint: Designator=D2 Old Footprint=DIO-SMD-106 New Footprint=DIO-SMD-123
+Change component parameters: Designator = "D1"; Footprint = "DIO-SMD-123"; UniqueID = "\LQSEMQSQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "E:\NEW_DATA\ELECTRONIC_DOCUMENT\DATASHEET\1N4001 (2).pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.006"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D2"; Footprint = "DIO-SMD-123"; UniqueID = "\SGUXMYMO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "E:\NEW_DATA\ELECTRONIC_DOCUMENT\DATASHEET\1N4001 (2).pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.006"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=KEY_DRV_0 Pin=S3-1
+Added Pin To Net: NetName=KEY_DRV_0 Pin=S4-1
+Added Pin To Net: NetName=KEY_DRV_0 Pin=S5-1
+Added Pin To Net: NetName=KEY_DRV_1 Pin=S6-1
+Added Pin To Net: NetName=KEY_DRV_1 Pin=S7-1
+Added Pin To Net: NetName=KEY_DRV_1 Pin=S8-1

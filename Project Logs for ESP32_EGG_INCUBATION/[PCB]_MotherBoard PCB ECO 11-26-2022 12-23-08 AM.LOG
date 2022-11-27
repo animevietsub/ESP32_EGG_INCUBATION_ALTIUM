@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=+3.3V Pin=C20-2
+Removed Pin From Net: NetName=+3.3V Pin=C21-2
+Added Pin To Net: NetName=+5V Pin=C20-2
+Added Pin To Net: NetName=+5V Pin=C21-2
+Added Pin To Net: NetName=KEY_DRV_0 Pin=S3-1
+Added Pin To Net: NetName=KEY_DRV_0 Pin=S4-1
+Added Pin To Net: NetName=KEY_DRV_0 Pin=S5-1
+Added Pin To Net: NetName=KEY_DRV_1 Pin=S6-1
+Added Pin To Net: NetName=KEY_DRV_1 Pin=S7-1
+Added Pin To Net: NetName=KEY_DRV_1 Pin=S8-1
+Added Pin To Net: NetName=+6V Pin=U1-8

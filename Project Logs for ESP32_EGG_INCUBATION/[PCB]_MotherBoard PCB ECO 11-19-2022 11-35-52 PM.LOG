@@ -1,0 +1,22 @@
+Change Component Footprint: Designator=S1 Old Footprint=TL3342F260QG New Footprint=Header 2P
+Change Component Footprint: Designator=S2 Old Footprint=TL3342F260QG New Footprint=Header 2P
+Change component parameters: Designator = "S1"; Footprint = "Header 2P"; UniqueID = "\DHPLWREJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "TL3342F260QG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.25"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "EG5470CT-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "S2"; Footprint = "Header 2P"; UniqueID = "\YYNCGSQU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "TL3342F260QG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.25"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "EG5470CT-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ESP32_EN Pin=S1-2
+Added Pin To Net: NetName=ESP32_IO0 Pin=S2-2
+Added Pin To Net: NetName=KEY_DRV_0 Pin=S3-1
+Added Pin To Net: NetName=KEY_DRV_0 Pin=S4-1
+Added Pin To Net: NetName=KEY_DRV_0 Pin=S5-1
+Added Pin To Net: NetName=KEY_DRV_1 Pin=S6-1
+Added Pin To Net: NetName=KEY_DRV_1 Pin=S7-1
+Added Pin To Net: NetName=KEY_DRV_1 Pin=S8-1

@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=D5 Old Footprint=DIO-SMD-106 New Footprint=DIO-SMD-123
+Change Component Footprint: Designator=D6 Old Footprint=DIO-SMD-106 New Footprint=DIO-SMD-123
+Added Pin To Net: NetName=KEY_SEN_0 Pin=S3-1
+Added Pin To Net: NetName=KEY_SEN_1 Pin=S4-1
+Added Pin To Net: NetName=KEY_SEN_2 Pin=S5-1
+Added Pin To Net: NetName=KEY_SEN_0 Pin=S6-1
+Added Pin To Net: NetName=KEY_SEN_1 Pin=S7-1
+Added Pin To Net: NetName=KEY_SEN_2 Pin=S8-1

@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=NetR8_1 Pin=U1-1
+Removed Pin From Net: NetName=NetR6_2 Pin=U1-3
+Removed Pin From Net: NetName=NetR10_2 Pin=U1-5
+Removed Pin From Net: NetName=NetR11_1 Pin=U1-7
+Added Component: Designator=C25(CAP-SMD-0805)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=C25-1
+Added Pin To Net: NetName=+3.3V Pin=C25-2
+Added Pin To Net: NetName=KEY_SEN_0 Pin=S3-1
+Added Pin To Net: NetName=KEY_SEN_1 Pin=S4-1
+Added Pin To Net: NetName=KEY_SEN_2 Pin=S5-1
+Added Pin To Net: NetName=KEY_SEN_0 Pin=S6-1
+Added Pin To Net: NetName=KEY_SEN_1 Pin=S7-1
+Added Pin To Net: NetName=KEY_SEN_2 Pin=S8-1
+Added Pin To Net: NetName=NetR11_1 Pin=U1-1
+Added Pin To Net: NetName=NetR10_2 Pin=U1-3
+Added Pin To Net: NetName=NetR6_2 Pin=U1-5
+Added Pin To Net: NetName=NetR8_1 Pin=U1-7
+Added Member To Class: ClassName=[SCH]_Power Member=Component C25 104

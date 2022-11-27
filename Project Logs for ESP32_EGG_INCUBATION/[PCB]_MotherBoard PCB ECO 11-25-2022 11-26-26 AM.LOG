@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=GND Pin=R5-1
+Removed Pin From Net: NetName=FANH Pin=R5-2
+Removed Pin From Net: NetName=FANH- Pin=R49-1
+Removed Pin From Net: NetName=+12V Pin=R50-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R5-1
+Added Pin To Net: NetName=GND Pin=R5-2
+Added Pin To Net: NetName=KEY_SEN_0 Pin=S3-1
+Added Pin To Net: NetName=KEY_SEN_1 Pin=S4-1
+Added Pin To Net: NetName=KEY_SEN_2 Pin=S5-1
+Added Pin To Net: NetName=KEY_SEN_0 Pin=S6-1
+Added Pin To Net: NetName=KEY_SEN_1 Pin=S7-1
+Added Pin To Net: NetName=KEY_SEN_2 Pin=S8-1

@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=S1 Old Footprint=Header 2P New Footprint=TL3342F260QG
+Change Component Footprint: Designator=S2 Old Footprint=Header 2P New Footprint=TL3342F260QG
+Added Pin To Net: NetName=KEY_SEN_0 Pin=S3-1
+Added Pin To Net: NetName=KEY_SEN_1 Pin=S4-1
+Added Pin To Net: NetName=KEY_SEN_2 Pin=S5-1
+Added Pin To Net: NetName=KEY_SEN_0 Pin=S6-1
+Added Pin To Net: NetName=KEY_SEN_1 Pin=S7-1
+Added Pin To Net: NetName=KEY_SEN_2 Pin=S8-1
