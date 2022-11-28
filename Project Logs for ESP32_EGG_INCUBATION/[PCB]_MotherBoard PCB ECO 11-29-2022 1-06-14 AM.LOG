@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=GND Pin=U6-13
+Added Pin To Net: NetName=GND Pin=U7-13
+Change Net Name : Old Net Name=GND New Net Name=LCD_OE
+Added Member To Class: ClassName=ADC_DATA - 150mil Member=Wire LCD_OE

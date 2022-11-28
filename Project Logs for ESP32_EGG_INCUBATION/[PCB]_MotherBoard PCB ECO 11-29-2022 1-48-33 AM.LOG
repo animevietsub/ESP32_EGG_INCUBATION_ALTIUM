@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=LCD_SER Pin=M1-31
+Removed Pin From Net: NetName=LCD_SRCLK Pin=M1-36
+Removed Pin From Net: NetName=LCD_RCLK Pin=M1-37
+Added Pin To Net: NetName=LCD_SRCLK Pin=M1-33
+Added Pin To Net: NetName=LCD_RCLK Pin=M1-36
+Added Pin To Net: NetName=LCD_SER Pin=M1-37
