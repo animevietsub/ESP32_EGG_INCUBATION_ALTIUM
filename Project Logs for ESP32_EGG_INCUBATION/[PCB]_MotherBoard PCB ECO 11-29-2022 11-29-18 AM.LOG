@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=ESP32_EN Pin=J5-1
+Removed Pin From Net: NetName=ESP32_TX0 Pin=J5-3
+Removed Pin From Net: NetName=ESP32_RX0 Pin=J5-5
+Removed Pin From Net: NetName=ESP32_IO0 Pin=J5-6
+Added Pin To Net: NetName=ESP32_RX0 Pin=J5-3
+Added Pin To Net: NetName=ESP32_TX0 Pin=J5-5

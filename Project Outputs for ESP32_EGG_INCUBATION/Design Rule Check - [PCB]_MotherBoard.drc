@@ -1,0 +1,43 @@
+Protel Design System Design Rule Check
+PCB File : E:\NEW_DATA\Project\ESP32_EGG_INCUBATION\[PCB]_MotherBoard.PcbDoc
+Date     : 12/4/2022
+Time     : 1:26:33 AM
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net LCD_SRCLK Between Arc (28.373mm,66.399mm) on Bottom Layer And Pad R54-2(31.853mm,66.675mm) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net LCD_SER Between Arc (29.088mm,62.64mm) on Bottom Layer And Pad R56-2(31.853mm,63.075mm) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U6-13(27.11mm,63.605mm) on Bottom Layer And Pad C14-1(31.777mm,60.931mm) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net +12V Between Pad D12-2(39.009mm,40.395mm) on Bottom Layer And Pad D12-1(42.057mm,40.395mm) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net +5V_USB Between Pad D13-1(5.976mm,72.532mm) on Bottom Layer And Pad D13-2(5.976mm,75.58mm) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad F2-1(49.36mm,7.7mm) on Bottom Layer And Pad F2-2(49.36mm,12.526mm) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad IC1-3(26.163mm,21.08mm) on Bottom Layer And Pad IC1-3(26.163mm,29.5mm) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Q6-3(85.509mm,40.11mm) on Bottom Layer And Pad J10-0(90mm,5mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net +12V Between Pad R3-2(36.315mm,6.864mm) on Bottom Layer And Pad J1-1(39.2mm,4.673mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Track (85.509mm,41.767mm)(85.509mm,42.901mm) on Bottom Layer And Pad J5-4(87.787mm,57.448mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net ESP32_EN Between Pad M1-3(44.317mm,80.517mm) on Bottom Layer And Pad S1-2(51.887mm,82.717mm) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net +3.3V Between Pad R64-2(70.578mm,60.283mm) on Bottom Layer And Pad M2-2(74.1mm,51.6mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net +3.3V Between Pad M2-2(74.1mm,91.4mm) on Multi-Layer And Pad R24-2(87.827mm,77.313mm) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net LCD_RCLK Between Pad R55-1(29.567mm,64.875mm) on Bottom Layer And Pad R55-2(31.853mm,64.875mm) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net +3.3V Between Pad R57-1(32.91mm,74.09mm) on Bottom Layer And Pad R57-2(32.91mm,76.376mm) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net +3.3V Between Pad R58-2(22.322mm,88.01mm) on Bottom Layer And Pad R58-1(24.608mm,88.01mm) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net +3.3V Between Pad R59-1(12.36mm,70.23mm) on Bottom Layer And Pad R59-2(14.646mm,70.23mm) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VR1 Between Pad R60-1(33.228mm,48.15mm) on Bottom Layer And Track (35.439mm,46.088mm)(35.439mm,47.395mm) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad R61-2(35.038mm,82.717mm) on Bottom Layer And Pad R61-1(37.324mm,82.717mm) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net +3.3V Between Pad R62-1(49.897mm,56.345mm) on Bottom Layer And Pad R62-2(56.297mm,56.345mm) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net +5V_USB Between Pad R63-1(49.897mm,52.108mm) on Bottom Layer And Pad R63-2(56.297mm,52.108mm) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net +3.3V Between Pad R64-1(64.178mm,60.283mm) on Bottom Layer And Pad R64-2(70.578mm,60.283mm) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net +3.3V Between Pad R65-1(81.287mm,60.283mm) on Bottom Layer And Pad R65-2(81.287mm,66.683mm) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net ESP32_IO0 Between Pad R66-1(61.977mm,62.031mm) on Bottom Layer And Pad R66-2(61.977mm,64.317mm) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net ESP32_IO0 Between Pad R67-1(61.977mm,65.914mm) on Bottom Layer And Pad R67-2(61.977mm,68.2mm) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad R68-1(38.81mm,45.534mm) on Bottom Layer And Pad R68-2(41.096mm,45.534mm) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad S1-1(45.587mm,86.517mm) on Bottom Layer And Pad S1-1(51.887mm,86.517mm) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net ESP32_IO0 Between Pad S2-2(61.977mm,75.947mm) on Bottom Layer And Pad S2-2(61.977mm,82.247mm) on Bottom Layer 
+Rule Violations :28
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+
+Violations Detected : 28
+Waived Violations : 0
+Time Elapsed        : 00:00:00

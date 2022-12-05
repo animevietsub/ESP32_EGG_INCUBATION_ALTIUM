@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=FANH_FAIL Pin=M1-4
+Removed Pin From Net: NetName=FANV_FAIL Pin=M1-5
+Removed Pin From Net: NetName=FANH Pin=M1-16
+Removed Pin From Net: NetName=HEATER Pin=M1-24
+Removed Pin From Net: NetName=BUZZER Pin=M1-26
+Added Pin To Net: NetName=FANV_FAIL Pin=M1-16
+Added Pin To Net: NetName=FANH_FAIL Pin=M1-24
+Added Pin To Net: NetName=FANH Pin=M1-26

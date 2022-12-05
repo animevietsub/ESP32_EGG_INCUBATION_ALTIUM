@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=HEATER Pin=M1-23
+Added Pin To Net: NetName=TURN Pin=M1-23

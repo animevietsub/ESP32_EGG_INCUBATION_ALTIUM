@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: [PCB]_MotherBoard.PcbDoc   12/4/2022  1:47:25 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : [PCB]_MotherBoard.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      28mil (0.711mm)                                           Round             32        PTH        0.00inch (0.00mm)
+T2      32mil (0.8mm)                                             Round             20        PTH        0.00inch (0.00mm)
+T3      34mil (0.864mm)                                           Round             21        PTH        0.00inch (0.00mm)
+T4      35mil (0.9mm)                                             Round             2         PTH        0.00inch (0.00mm)
+T5      40mil (1.016mm)                                           Round             10        PTH        0.00inch (0.00mm)
+T6      47mil (1.2mm)                                             Round             13        PTH        0.00inch (0.00mm)
+T7      79mil (2mm)                                               Round             2         PTH        0.00inch (0.00mm)
+T8      138mil (3.5mm)                                            Round             4         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              104
+
+Total Processing Time (hh:mm:ss) : 00:00:00

@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=KEY_DRV_0 Pin=J12-1
+Removed Pin From Net: NetName=KEY_SEN_2 Pin=J12-2
+Removed Pin From Net: NetName=KEY_SEN_1 Pin=J12-3
+Removed Pin From Net: NetName=KEY_SEN_0 Pin=J12-4
+Removed Pin From Net: NetName=KEY_SEN_0 Pin=J13-1
+Removed Pin From Net: NetName=KEY_SEN_1 Pin=J13-2
+Removed Pin From Net: NetName=KEY_SEN_2 Pin=J13-3
+Removed Pin From Net: NetName=KEY_DRV_1 Pin=J13-4
+Removed Member From Class: ClassName=[SCH]_HMI Member=J13
+Change Component Footprint: Designator=J12 Old Footprint=Header 4P New Footprint=Header 5P
+Change Component Comment : Designator=J12 Old Comment=KEYPAD1 New Comment=JUMPER
+Added Pin To Net: NetName=KEY_SEN_0 Pin=J12-1
+Added Pin To Net: NetName=KEY_SEN_1 Pin=J12-2
+Added Pin To Net: NetName=KEY_SEN_2 Pin=J12-3
+Added Pin To Net: NetName=KEY_DRV_1 Pin=J12-4
+Added Pin To Net: NetName=KEY_DRV_0 Pin=J12-5

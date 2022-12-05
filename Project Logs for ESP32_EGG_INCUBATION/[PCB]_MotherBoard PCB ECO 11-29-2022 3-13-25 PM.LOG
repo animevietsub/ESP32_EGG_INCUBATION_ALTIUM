@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=ESP32_IO0 Pin=R66-1
+Removed Pin From Net: NetName=ESP32_IO0 Pin=R66-2
+Removed Pin From Net: NetName=ESP32_IO0 Pin=R67-1
+Removed Pin From Net: NetName=ESP32_IO0 Pin=R67-2
+Added Pin To Net: NetName=ESP32_IO0 Pin=C5-2
+Added Pin To Net: NetName=ESP32_IO0 Pin=M1-25
+Added Pin To Net: NetName=ESP32_IO0 Pin=R23-1
+Added Pin To Net: NetName=ESP32_IO0 Pin=S2-2
+Added Pin To Net: NetName=ESP32_IO0 Pin=S2-2

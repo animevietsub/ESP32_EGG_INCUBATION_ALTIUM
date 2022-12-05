@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=ESP32_TX0 Pin=M1-31
+Added Pin To Net: NetName=ESP32_RX0 Pin=M1-32
+Added Room: Name=[SCH]_HMI
+Added Room: Name=[SCH]_IO
+Added Room: Name=[SCH]_MainProcessor
+Added Room: Name=[SCH]_Power

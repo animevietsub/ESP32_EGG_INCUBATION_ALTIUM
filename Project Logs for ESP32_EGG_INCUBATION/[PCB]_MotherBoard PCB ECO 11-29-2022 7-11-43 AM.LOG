@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=NetU6_9 Pin=U7-15
+Added Pin To Net: NetName=ESP32_TX0 Pin=M1-31
+Added Pin To Net: NetName=ESP32_RX0 Pin=M1-32

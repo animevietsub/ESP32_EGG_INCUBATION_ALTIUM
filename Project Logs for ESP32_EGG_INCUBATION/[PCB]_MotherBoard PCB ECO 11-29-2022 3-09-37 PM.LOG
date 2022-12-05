@@ -1,0 +1,70 @@
+Removed Pin From Net: NetName=ESP32_IO0 Pin=C5-2
+Removed Pin From Net: NetName=ESP32_IO0 Pin=M1-25
+Removed Pin From Net: NetName=ESP32_IO0 Pin=R23-1
+Removed Pin From Net: NetName=+5V_USB Pin=R63-1
+Removed Pin From Net: NetName=+5V_USB Pin=R63-2
+Removed Pin From Net: NetName=ESP32_IO0 Pin=S2-2
+Removed Pin From Net: NetName=ESP32_IO0 Pin=S2-2
+Removed Pin From Net: NetName=NetU6_9 Pin=U7-15
+Change Component Comment : Designator=R62 Old Comment=RES-2512-4.7R New Comment=R0805
+Change Component Comment : Designator=R63 Old Comment=RES-2512-4.7R New Comment=R0805
+Change Component Comment : Designator=R64 Old Comment=RES-2512-4.7R New Comment=R0805
+Change Component Comment : Designator=R65 Old Comment=RES-2512-4.7R New Comment=R0805
+Change component parameters: Designator = "R59"; Footprint = "RES-SMD-0805"; UniqueID = "\HNBUHLOG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "J1-0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.005"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "311-1.00KLRCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R60"; Footprint = "RES-SMD-0805"; UniqueID = "\PWMGDRKQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "J1-0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.005"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "311-1.00KLRCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R61"; Footprint = "RES-SMD-0805"; UniqueID = "\BNBMABTP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "J1-0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.005"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "311-1.00KLRCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R66"; Footprint = "RES-SMD-0805"; UniqueID = "\SXOVIWFA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "J1-0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.005"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "311-1.00KLRCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R67"; Footprint = "RES-SMD-0805"; UniqueID = "\KFPGFMHM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "J1-0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.005"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "311-1.00KLRCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R68"; Footprint = "RES-SMD-0805"; UniqueID = "\OLNOGWLO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "J1-0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.005"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "311-1.00KLRCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=NetC17_2 New Net Name=VR1
+Added Pin To Net: NetName=5V_USB Pin=R63-1
+Added Pin To Net: NetName=5V_USB Pin=R63-2
+Added Net: Name=5V_USB
+Added Member To Class: ClassName=[SCH]_Power Member=Component D13 1N4001
+Added Member To Class: ClassName=[SCH]_Power Member=Component R58 R0805
+Added Member To Class: ClassName=[SCH]_Power Member=Component R59 R0805
+Added Member To Class: ClassName=[SCH]_Power Member=Component R60 R0805
+Added Member To Class: ClassName=[SCH]_Power Member=Component R61 R0805
+Added Member To Class: ClassName=[SCH]_Power Member=Component R62 R0805
+Added Member To Class: ClassName=[SCH]_Power Member=Component R63 R0805
+Added Member To Class: ClassName=[SCH]_Power Member=Component R64 R0805
+Added Member To Class: ClassName=[SCH]_Power Member=Component R65 R0805
+Added Member To Class: ClassName=[SCH]_Power Member=Component R66 R0805
+Added Member To Class: ClassName=[SCH]_Power Member=Component R67 R0805
+Added Member To Class: ClassName=[SCH]_Power Member=Component R68 R0805

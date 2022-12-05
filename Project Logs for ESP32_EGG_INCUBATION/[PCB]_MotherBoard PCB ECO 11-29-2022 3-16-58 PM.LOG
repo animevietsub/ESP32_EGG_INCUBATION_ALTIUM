@@ -1,0 +1,8 @@
+Removed Member From Class: ClassName=[SCH]_Power Member=R66
+Removed Member From Class: ClassName=[SCH]_Power Member=R67
+Added Pin To Net: NetName=ESP32_IO0 Pin=R66-1
+Added Pin To Net: NetName=ESP32_IO0 Pin=R66-2
+Added Pin To Net: NetName=ESP32_IO0 Pin=R67-1
+Added Pin To Net: NetName=ESP32_IO0 Pin=R67-2
+Added Member To Class: ClassName=[SCH]_MainProcessor Member=Component R66 R0805
+Added Member To Class: ClassName=[SCH]_MainProcessor Member=Component R67 R0805
